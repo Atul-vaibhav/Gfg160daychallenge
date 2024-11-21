@@ -49,6 +49,7 @@ This repository is open-sourced under the [MIT License](LICENSE). Feel free to u
 ---
 Clone This repo:
 
+```bash
 git clone https://github.com/AtulVaibhav/Gfg160daychallenge.git
 
 
