@@ -47,11 +47,10 @@ Feel free to explore, fork, or contribute to this repository. If you have any su
 This repository is open-sourced under the [MIT License](LICENSE). Feel free to use and share the solutions but give proper credits.
 
 ---
+Happy Coding! 😊
+Star this reprository,  if u found this repo. helpful!!!😍😍
+
 Clone This repo:
 
 ```bash
 git clone https://github.com/AtulVaibhav/Gfg160daychallenge.git
-
-
-
-Happy Coding! 😊
